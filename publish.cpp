@@ -10,7 +10,7 @@ using namespace std;
 #define CLIENTID   "Beagle1"
 #define TOPIC      "jroux14/feeds/weather.temperature-reading"
 #define AUTHMETHOD "jroux14"
-#define AUTHTOKEN  "aio_fAEk131QwTBC94H8l8sNqDzlCaGD"
+#define AUTHTOKEN  "aio_HiMu03XuogMwqtjl10Rh51cBQJsK"
 #define QOS        1
 #define TIMEOUT    10000L
 #define ADC_PATH   "/sys/bus/iio/devices/iio:device0/in_voltage"
